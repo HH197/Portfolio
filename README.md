@@ -23,3 +23,15 @@ Car Price and Heart Failure prediction using Generalized Linear Models (GLMs)](h
 
 Here, we used two different data sets to show the broad applications of the GLMs in real-world problems. We devised Gamma regression and logistic regression models to predict Car price and Heart Failure. In our analyses, we focused on model fitting and highlighting the statistically significant variables for prediction using step-wise log-likelihood ratio test and AIC test.
 
+
+
+
+
+
+
+
+## Certificates
+
+- [Introduction to SQL By University Of Michigan](https://github.com/HH197/Portfolio/blob/main/Certificates/Coursera_SQL.pdf)
+- [Distributed Computing with Spark SQL By UC Davis](https://github.com/HH197/Portfolio/blob/main/Certificates/Coursera_Spark.pdf)
+- [ETL and Data Pipelines with Shell, Airflow and Kafka By IBM](https://github.com/HH197/Portfolio/blob/main/Certificates/Coursera_ETL.pdf)
