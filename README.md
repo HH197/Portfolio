@@ -11,7 +11,7 @@ This Portfolio is a collection of my Data Science and Data Analysis projects I h
 - [Publication](https://ieeexplore.ieee.org/abstract/document/9050081) Prediction of MEMS-based INS Error Using Interval Type-2 Fuzzy Logic System in INS/GPS Integration, 25th International Computer Conference, Computer Society of Iran (CSICC), 2020, pp. 1-5.
 
 ## Projects
-<img align="left" width="250" height="200" src="https://developer-blogs.nvidia.com/wp-content/uploads/2020/08/single-cell-rna-sequencing-experiment-1-625x429.png"> **[
+<img align="left" width="200" height="150" src="https://developer-blogs.nvidia.com/wp-content/uploads/2020/08/single-cell-rna-sequencing-experiment-1-625x429.png"> **[
 Deep Generative Modeling and Probabilistic Dimension Reduction](https://github.com/HH197/Deep-Generative-Modeling-and-Probabilistic-Dimension-Reduction)**
 
 In this project, I re-engineered the implementation of the [scVI](https://www.nature.com/articles/s41592-018-0229-2), built at the University of Berkeley, and enhanced the code reliability and efficiency using Pytorch, Pytorch Lightning, and Pyro, resulted in a general dimension reduction and data imputation tool.
