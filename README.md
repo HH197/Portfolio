@@ -32,7 +32,7 @@ Here, we used two different data sets to show the broad applications of the GLMs
 ## Core Competencies
 
 - **Methodologies**: Machine Learning, Deep Learning, Statistics, Bayesian Inference, A/B Testing and Experimentation Design, Big Data Analytics
-- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Pytorch, Matplotlib), R (Dplyr, Reshape, ggplot2), SQL
+- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Pytorch, Pyro, Pytorch Lightning, LightGBM, H5py, Matplotlib), R (Dplyr, Reshape, ggplot2), SQL
 - **Tools**: MySQL, Git, Jupyter Notebook, Apache Spark, Apache Airflow, Apache Kafka, MS Excel
 
 ## Certificates
