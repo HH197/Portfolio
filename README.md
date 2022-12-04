@@ -12,7 +12,7 @@ This Portfolio is a collection of my Data Science and Data Analysis projects I h
 
 ## Projects
 
-<img align="left" width="250" height="100" src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-017-02554-5/MediaObjects/41467_2017_2554_Fig1_HTML.png?as=webp"> **[ZINB-Grad: A Gradient Based Linear Model Outperforming Deep Models](https://github.com/HH197/ZINB-Grad)**
+<img align="left" width="300" height="150" src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-017-02554-5/MediaObjects/41467_2017_2554_Fig1_HTML.png?as=webp"> **[ZINB-Grad: A Gradient Based Linear Model Outperforming Deep Models](https://github.com/HH197/ZINB-Grad)**
 
 In this project, we used a novel optimization procedure combined with modern machine learning software packages to overcome the scalability and efficiency challenges inherited in traditional tools. We showed that our implementation is more efficient than both conventional models and deep learning models. We assessed our proposed model, [ZINB-Grad](https://github.com/HH197/ZINB-Grad), and compared it with [scVI](https://www.nature.com/articles/s41592-018-0229-2#Sec43) and [ZINB-WaVE](https://www.nature.com/articles/s41467-017-02554-5), both developed at the UC Berkeley, using a set of benchmarks, including run-time, goodness-of-fit, imputation error, clustering accuracy, and batch correction.
 
