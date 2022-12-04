@@ -2,7 +2,7 @@
 This Portfolio is a collection of my Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. 
 
 - **Email**: [hamid.hamidi@ucalgary.ca](hamid.hamidi@ucalgary.ca)
-- **LinkedIn**: [![Linkdin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamid-hamidi/)
+- **LinkedIn**: [https://www.linkedin.com/in/hamid-hamidi/](https://www.linkedin.com/in/hamid-hamidi/)
 
 ## Achievements
 - Recipient of the Graduate Assistant Teaching Excellence Award for excellent communication skills, solid academic background, and passionate devotion towards teaching, University of Calgary.
