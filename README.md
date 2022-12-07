@@ -29,6 +29,14 @@ Car Price and Heart Failure prediction using Generalized Linear Models (GLMs)](h
 
 Here, we used two different data sets to show the broad applications of the GLMs in real-world problems. We devised Gamma regression and logistic regression models to predict Car price and Heart Failure. In our analyses, we focused on model fitting and highlighting the statistically significant variables for prediction using step-wise log-likelihood ratio test and AIC test.
 
+## Micro Projects
+- ### Statistics and Machine Learning
+    - [Ziro-Inflated Negative Binomial Distribution log-likelihood](https://colab.research.google.com/drive/1BWAN1ezDv39ubT9d3iLVy_fE4HQPTTdz?usp=sharing): In this Google Colab notebook, I aim to find log-likelihood of the ZINB distribution using different methods and frameworks. 
+    - [K-means using gradient descent and Pytorch](https://colab.research.google.com/drive/1b52xfZOylYpG2hKJUS20r5P7ATe7BSaY?usp=sharing): In this Google Colab notebook, I implemented the K-means algorithm using gradient descent and Pytorch.
+ 
+- ### Challenges
+    - [Data Science Competition held by the Statistical Society of Canada.](https://drive.google.com/file/d/1BoANmS7GRmL9r90arduzFZ0pMUfsPbX6/view?usp=sharing): Assessment, Comparison, and Forecasting Internet Speed and Quality in Canadian Communities. I Led a team of 4 data scientists and uncovered the inconsistencies of internet development in Canadian communities using non-parametric tests. We predicted government’s progress toward high-speed internet using logistic regression with 91% accuracy.
+
 ## Core Competencies
 
 - **Methodologies**: Machine Learning, Deep Learning, Statistics, Bayesian Inference, A/B Testing and Experimentation Design, Big Data Analytics
