@@ -1,3 +1,4 @@
+
 # Data Science Portfolio - Hamid Hamidi
 This Portfolio is a collection of my Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. 
 
@@ -12,7 +13,7 @@ This Portfolio is a collection of my Data Science and Data Analysis projects I h
 
 ## Projects
 
-<img align="left" width="300" height="150" src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-017-02554-5/MediaObjects/41467_2017_2554_Fig1_HTML.png?as=webp"> **[ZINB-Grad: A Gradient Based Linear Model Outperforming Deep Models](https://github.com/HH197/ZINB-Grad)**
+<img align="left" width="350" height="150" src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-017-02554-5/MediaObjects/41467_2017_2554_Fig1_HTML.png?as=webp"> **[ZINB-Grad: A Gradient Based Linear Model Outperforming Deep Models](https://github.com/HH197/ZINB-Grad)**
 
 In this project, we used a novel optimization procedure combined with modern machine learning software packages to overcome the scalability and efficiency challenges inherited in traditional tools. We showed that our implementation is more efficient than both conventional models and deep learning models. We assessed our proposed model, [ZINB-Grad](https://github.com/HH197/ZINB-Grad), and compared it with [scVI](https://www.nature.com/articles/s41592-018-0229-2#Sec43) and [ZINB-WaVE](https://www.nature.com/articles/s41467-017-02554-5), both developed at the UC Berkeley, using a set of benchmarks, including run-time, goodness-of-fit, imputation error, clustering accuracy, and batch correction.
 
@@ -35,7 +36,8 @@ Here, we used two different data sets to show the broad applications of the GLMs
     - [K-means using gradient descent and Pytorch](https://colab.research.google.com/drive/1b52xfZOylYpG2hKJUS20r5P7ATe7BSaY?usp=sharing): In this Google Colab notebook, I implemented the K-means algorithm using gradient descent and Pytorch.
  
 - ### Challenges
-    - [Data Science Competition held by the Statistical Society of Canada.](https://drive.google.com/file/d/1BoANmS7GRmL9r90arduzFZ0pMUfsPbX6/view?usp=sharing): Assessment, Comparison, and Forecasting Internet Speed and Quality in Canadian Communities. I Led a team of 4 data scientists and uncovered the inconsistencies of internet development in Canadian communities using non-parametric tests. We predicted government’s progress toward high-speed internet using logistic regression with 91% accuracy.
+    - [Data Science Competition (Statistical Society of Canada).](https://drive.google.com/file/d/1BoANmS7GRmL9r90arduzFZ0pMUfsPbX6/view?usp=sharing): **Assessment, Comparison, and Forecasting Internet Speed and Quality in Canadian Communities**
+    I Led a team of 4 data scientists and uncovered the inconsistencies of internet development in Canadian communities using non-parametric tests. We predicted government’s progress toward high-speed internet using logistic regression with 91% accuracy.
 
 ## Core Competencies
 
