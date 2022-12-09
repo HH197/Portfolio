@@ -5,11 +5,17 @@ This Portfolio is a collection of my Data Science and Data Analysis projects I h
 - **Email**: [hamid.hamidi@ucalgary.ca](hamid.hamidi@ucalgary.ca)
 - **LinkedIn**: [https://www.linkedin.com/in/hamid-hamidi/](https://www.linkedin.com/in/hamid-hamidi/)
 
-## Achievements
-- Recipient of the Graduate Assistant Teaching Excellence Award for excellent communication skills, solid academic background, and passionate devotion towards teaching, University of Calgary.
-- [Publication](https://www.biorxiv.org/content/10.1101/2021.01.09.426041v1.abstract): Signatures of Mutational Processes in Human DNA Evolution, 2021, bioRxiv.
-- Recipient of Top Student of the Academic Year Award for excellent academic performance, Iran University of Science and Technology.
-- [Publication](https://ieeexplore.ieee.org/abstract/document/9050081) Prediction of MEMS-based INS Error Using Interval Type-2 Fuzzy Logic System in INS/GPS Integration, 25th International Computer Conference, Computer Society of Iran (CSICC), 2020, pp. 1-5.
+## Table of Contents
+
+  * [Table of Contents](#table-of-contents)
+  * [Projects](#Projects)
+  * [Micro Projects](#micro-projects)
+    + [Statistics and Machine Learning](#statistics-and-machine-learning)
+    + [Challenges](#challenges)
+  * [Achievements](#achievements)
+  * [Core Competencies](#core-competencies)
+  * [Certificates](#certificates)
+
 
 ## Projects
 
@@ -38,6 +44,12 @@ Here, we used two different data sets to show the broad applications of the GLMs
 - ### Challenges
     - [Data Science Competition (Statistical Society of Canada).](https://drive.google.com/file/d/1BoANmS7GRmL9r90arduzFZ0pMUfsPbX6/view?usp=sharing): **Assessment, Comparison, and Forecasting Internet Speed and Quality in Canadian Communities**
     I Led a team of 4 data scientists and uncovered the inconsistencies of internet development in Canadian communities using non-parametric tests. We predicted government’s progress toward high-speed internet using logistic regression with 91% accuracy.
+
+## Achievements
+- Recipient of the Graduate Assistant Teaching Excellence Award for excellent communication skills, solid academic background, and passionate devotion towards teaching, University of Calgary.
+- [Publication](https://www.biorxiv.org/content/10.1101/2021.01.09.426041v1.abstract): Signatures of Mutational Processes in Human DNA Evolution, 2021, bioRxiv.
+- Recipient of Top Student of the Academic Year Award for excellent academic performance, Iran University of Science and Technology.
+- [Publication](https://ieeexplore.ieee.org/abstract/document/9050081) Prediction of MEMS-based INS Error Using Interval Type-2 Fuzzy Logic System in INS/GPS Integration, 25th International Computer Conference, Computer Society of Iran (CSICC), 2020, pp. 1-5.
 
 ## Core Competencies
 
