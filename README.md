@@ -37,7 +37,7 @@ Here, we used two different data sets to show the broad applications of the GLMs
 
 ## Micro Projects
 - ### Statistics and Machine Learning
-    - [Ziro-Inflated Negative Binomial Distribution log-likelihood](https://colab.research.google.com/drive/1BWAN1ezDv39ubT9d3iLVy_fE4HQPTTdz?usp=sharing): In this Google Colab notebook, I aim to find log-likelihood of the ZINB distribution using different methods and frameworks. 
+    - [Ziro-Inflated Negative Binomial Distribution log-likelihood](https://colab.research.google.com/drive/1BWAN1ezDv39ubT9d3iLVy_fE4HQPTTdz?usp=sharing): In this Google Colab notebook, I aim to find the log-likelihood of the ZINB distribution using different methods and frameworks. 
     - [K-means using gradient descent and Pytorch](https://colab.research.google.com/drive/1b52xfZOylYpG2hKJUS20r5P7ATe7BSaY?usp=sharing): In this Google Colab notebook, I implemented the K-means algorithm using gradient descent and Pytorch.
  
 - ### Challenges
