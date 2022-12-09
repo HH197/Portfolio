@@ -7,7 +7,6 @@ This Portfolio is a collection of my Data Science and Data Analysis projects I h
 
 ## Table of Contents
 
-  * [Table of Contents](#table-of-contents)
   * [Projects](#Projects)
   * [Micro Projects](#micro-projects)
     + [Statistics and Machine Learning](#statistics-and-machine-learning)
