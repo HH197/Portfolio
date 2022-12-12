@@ -30,8 +30,8 @@ In this project, I re-engineered the implementation of the [scVI](https://www.na
 
 #
 
-<img width="480" height="150" src="https://github.com/HH197/Unsupervised-cell-population-identification/blob/main/Figures/project_pic.png" > **[
-Unsupervised Cell Population Identification](https://github.com/HH197/Unsupervised-cell-population-identification)**
+<img width="480" height="150" src="https://github.com/HH197/Unsupervised-cell-population-identification/blob/main/Figures/project_pic.png" >
+ **[Unsupervised Cell Population Identification](https://github.com/HH197/Unsupervised-cell-population-identification)**
 
 Cell type identification usually is one of the critical goals of scRNA-seq data analysis. This identification is typically a clustering problem. Groups identified in an unsupervised manner are annotated to cell types. However, clustering single cells based on their gene expression level is complicated considering the curse of high dimensionality, low SNR, and artifacts. This study aims to identify different cell types and cell states using publicly available single-cell data sets. Here, we propose various approaches consisting of three steps, pre-processing, dimension reduction, and clustering.
 
