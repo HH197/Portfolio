@@ -67,3 +67,8 @@ Here, we used two different data sets to show the broad applications of the GLMs
 - [Introduction to SQL By University Of Michigan](https://github.com/HH197/Portfolio/blob/main/Certificates/Coursera_SQL.pdf)
 - [Distributed Computing with Spark SQL By UC Davis](https://github.com/HH197/Portfolio/blob/main/Certificates/Coursera_Spark.pdf)
 - [ETL and Data Pipelines with Shell, Airflow and Kafka By IBM](https://github.com/HH197/Portfolio/blob/main/Certificates/Coursera_ETL.pdf)
+- 
+
+## Acknowledgement
+
+- The structure of the README.md is adapted from https://github.com/archd3sai/Portfolio.
