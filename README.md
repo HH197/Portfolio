@@ -2,7 +2,7 @@
 # Data Science Portfolio - Hamid Hamidi
 This Portfolio is a collection of my Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. 
 
-- **Email**: [hamid.hamidi@ucalgary.ca](hamid.hamidi@ucalgary.ca)
+- **Email**: [hhamidi.ml@gmail.com](hhamidi.ml@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/hamid-hamidi/](https://www.linkedin.com/in/hamid-hamidi/)
 
 ## Table of Contents
