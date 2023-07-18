@@ -18,9 +18,9 @@ This Portfolio is a collection of my Data Science and Data Analysis projects I h
 
 ## Projects
 
-<img align="left" width="350" height="150" src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-017-02554-5/MediaObjects/41467_2017_2554_Fig1_HTML.png?as=webp"> **[ZINB-Grad: A Gradient Based Linear Model Outperforming Deep Models](https://github.com/HH197/ZINB-Grad)**
+<img align="left" width="350" height="150" src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-017-02554-5/MediaObjects/41467_2017_2554_Fig1_HTML.png?as=webp"> **[ZINB-Grad: A Gradient Based Linear Model Outperforming Deep Models](https://hh197.github.io/Grad-Learn/linear_model/index.html#zinb-grad-a-gradient-based-linear-model-outperforming-deep-models)**
 
-In this project, we used a novel optimization procedure combined with modern machine learning software packages to overcome the scalability and efficiency challenges inherited in traditional tools. We showed that our implementation is more efficient than both conventional models and deep learning models. We assessed our proposed model, [ZINB-Grad](https://github.com/HH197/ZINB-Grad), and compared it with [scVI](https://www.nature.com/articles/s41592-018-0229-2#Sec43) and [ZINB-WaVE](https://www.nature.com/articles/s41467-017-02554-5), both developed at the UC Berkeley, using a set of benchmarks, including run-time, goodness-of-fit, imputation error, clustering accuracy, and batch correction.
+In this project, I designed a generalized linear model and trained it using momentum-based gradient descent and overcame the scalability and efficiency challenges inherited in generalized linear models. I showed that my model is outperforming state-of-the-art deep learning solutions while using 90% fewer resources. I compared my model [ZINB-Grad](https://github.com/HH197/ZINB-Grad) with [scVI](https://www.nature.com/articles/s41592-018-0229-2#Sec43) and [ZINB-WaVE](https://www.nature.com/articles/s41467-017-02554-5), both developed at the UC Berkeley, using a set of benchmarks, including run-time, goodness-of-fit, imputation error, clustering performance, and batch correction.
 
 #
 <img align="left" height="150" src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41524-020-0276-y/MediaObjects/41524_2020_276_Fig3_HTML.png?as=webp"> **[
@@ -36,7 +36,7 @@ Cell type identification usually is one of the critical goals of scRNA-seq data 
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/HH197/Portfolio/blob/main/Figures/heart.jpg"> **[
+<img align="left" width="250" height="150" src="https://media.istockphoto.com/id/1260171578/vector/vector-of-a-man-pushing-down-a-car-on-a-financial-graph-automobile-depreciation.webp?s=2048x2048&w=is&k=20&c=8Omy4RAfaD9WmVZeyHElaQvQiVr8gneBBpIku-oTKso="> **[
 Car Price and Heart Failure prediction using Generalized Linear Models (GLMs)](https://github.com/HH197/GLM-project)**
 
 Here, we used two different data sets to show the broad applications of the GLMs in real-world problems. We devised Gamma regression and logistic regression models to predict Car price and Heart Failure. In our analyses, we focused on model fitting and highlighting the statistically significant variables for prediction using step-wise log-likelihood ratio test and AIC test.
@@ -67,7 +67,6 @@ Here, we used two different data sets to show the broad applications of the GLMs
 - [Introduction to SQL By University Of Michigan](https://github.com/HH197/Portfolio/blob/main/Certificates/Coursera_SQL.pdf)
 - [Distributed Computing with Spark SQL By UC Davis](https://github.com/HH197/Portfolio/blob/main/Certificates/Coursera_Spark.pdf)
 - [ETL and Data Pipelines with Shell, Airflow and Kafka By IBM](https://github.com/HH197/Portfolio/blob/main/Certificates/Coursera_ETL.pdf)
-- 
 
 ## Acknowledgement
 
