@@ -26,7 +26,7 @@ In this project, I designed a generalized linear model and trained it using mome
 <img align="left" height="150" src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41524-020-0276-y/MediaObjects/41524_2020_276_Fig3_HTML.png?as=webp"> **[
 Deep Generative Modeling and Probabilistic Dimension Reduction](https://github.com/HH197/Deep-Generative-Modeling-and-Probabilistic-Dimension-Reduction)**
 
-In this project, I re-engineered the implementation of the [scVI](https://www.nature.com/articles/s41592-018-0229-2), built at the University of Berkeley, and enhanced the code reliability and efficiency using Pytorch, Pytorch Lightning, and Pyro, resulted in a general dimension reduction and data imputation tool.
+In this project, I  re-engineered the implementation of a deep generative model built at the University of Berkeley [scVI](https://www.nature.com/articles/s41592-018-0229-2), ensuring numerical stability and reproducibility of results while increasing efficiency by 5% using Pytorch, Pytorch Lightning, and Pyro, resulted in a general dimension reduction and data imputation tool.
 
 #
 
